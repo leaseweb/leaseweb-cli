@@ -1,3 +1,7 @@
+> ### ⚠️ This repository is no longer maintained.
+> This project is no longer being actively developed or maintained. While the code remains available for reference, we recommend using alternative solutions or forks if you need ongoing support or updates.
+
+
 # Leaseweb CLI
 
 This package provides a cli for Leaseweb's REST API.
